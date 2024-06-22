@@ -76,27 +76,27 @@ const Contact = () => {
       <Title>Contact</Title>
       <ContactInfo>
         <InfoItem>
-          <FaPhone /> +91-9660369581
+          <FaPhone /> +91-9705116606
         </InfoItem>
         <InfoItem>
           <FaEnvelope /> 
-          <InfoLink href="mailto:mohit156v@gmail.com">mohit156v@gmail.com</InfoLink>
+          <InfoLink href="mailto:siddiqkolimi@gmail.com">siddiq.kolimi@gmail.com</InfoLink>
         </InfoItem>
         <InfoItem>
           <FaLinkedin />
-          <InfoLink href="https://www.linkedin.com/in/codeofmohit-mohit-verma/" target="_blank">
-            linkedin.com/in/codeofmohit-mohit-verma/
+          <InfoLink href="https://www.linkedin.com/in/siddiq-kolimi-a371a9192" target="_blank">
+            linkedin.com/in/siddiq-kolimi-a371a9192/
           </InfoLink>
         </InfoItem>
         <InfoItem>
           <FaGithub />
-          <InfoLink href="https://github.com/codeofmohit" target="_blank">
-            github.com/codeofmohit/
+          <InfoLink href="https://github.com/Siddiq3" target="_blank">
+            github.com/Siddiq3/
           </InfoLink>
         </InfoItem>
         <InfoItem>
           <FaGlobe />
-          <InfoLink href="https://codeofmohit.com" target="_blank">
+          <InfoLink href="https://siddiqkolimi.vercel.app.com" target="_blank">
             codeofmohit.com
           </InfoLink>
         </InfoItem>

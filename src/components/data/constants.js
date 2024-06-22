@@ -11,7 +11,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Siddiq3",
     resume:
-      "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+      "https://docs.google.com/document/d/16Bmo2I0dyNGbUUbvz_S9n4hMD3bh1xshqZAsO78o3uM/edit?usp=sharing",
     linkedin: "https://www.linkedin.com/in/siddiq-kolimi-a371a9192",
     twitter: "https://twitter.com/siddiqkolimi",
     insta: "https://www.instagram.com/siddiqkolimi/",
@@ -179,31 +179,42 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-      school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-      date: "Oct 2021 - Sep 2025",
-      grade: "8.71 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-      degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+      img: "https://www.jntua.ac.in/wp-content/uploads/2020/01/cropped-logo-1.png",
+      school: "jawaharlal nehru technological university hyderabad",
+      date: "June 2022 - May 2024",
+      grade: "78.5 %",
+      desc: "I have graduated with a Master's degree in Computer Applications. During my studies, I focused on advanced topics in software development, including Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks",
+      degree: "Master's Of Computer Applications - MCA, Computer Science and Information",
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-      school: "Methodist School, Dankuni",
-      date: "Apr 2019 - Apr 2025",
-      grade: "88.2%",
-      desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-      degree: "ISC(XII), Science with Computer",
+      img: "https://raw.githubusercontent.com/Siddiq3/images/main/degree college.jpg",
+      school: "National Degree college",
+      date: "Apr 2019 - Apr 2022",
+      grade: "80.2%",
+      desc: "I completed my Bachelor's degree in Computer Science.",
+      degree: "BSC, Science with Computer",
     },
     {
-      id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-      school: "Methodist School, Dankuni",
-      date: "Apr 2017 - Apr 2019",
-      grade: "92.3%",
-      desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-      degree: "ICSC(X), Science with Computer",
-    },
+        id: 3,
+        img: "https://raw.githubusercontent.com/Siddiq3/images/main/Narayana_Group_Logo.png",
+        school: "Narayana Junior College, Kurnool",
+        date: "2016 - 2018",
+        grade: "97%",
+        desc: "I completed my Higher Secondary Education ",
+        degree: "Higher Secondary Education (MPC)"
+      },
+      {
+        id: 4,
+        img: "https://raw.githubusercontent.com/Siddiq3/images/main/school.png",
+        school: "Govt High School, Sanjamla",
+        date: "2016",
+        grade: "9.2 GPA",
+        desc: "I completed my Secondary Education (SSC) at Govt High School in 2016, achieving 9.2.",
+        degree: "Secondary School Certificate (SSC)"
+      }
+      
+      
   ];
   
   export const projects = [
