@@ -124,25 +124,13 @@ export const Bio = {
         "github"
       ],
     },
+   
     {
       id: 1,
-      img: "https://raw.githubusercontent.com/Siddiq3/images/main/icon1.png",  // Replace with actual image URL
-      role: "Mobile App Developer",
-      company: "Mociber",
-      date: "June 2022 - Sept 2022",
-      desc: "Developed an app for solving home service problems like electrical work, plumbing, and motor work. The app connects customers with technicians to resolve issues efficiently.",
-      skills: [
-        "React Native",
-        "UI/UX Design",
-      
-      ],
-    },
-    {
-      id: 2,
       img: "https://raw.githubusercontent.com/Siddiq3/images/main/rankers.png",  // Replace with actual image URL
       role: "Mobile App Developer",
       company: "Rankers Academy",
-      date: "Oct 2022 - Jan 2023",
+      date: "March 2024 - May 2024",
       desc: "Developed an app for Rankers Academy Institute to manage student data, track daily attendance, provide exam results, and manage fee details. The app sends daily notifications and allows students to access their details using their phone number and date of birth.",
       skills: [
         "Reactjs",
@@ -157,11 +145,11 @@ export const Bio = {
       ],
     },
     {
-      id: 3,
+      id: 2,
       img: "https://raw.githubusercontent.com/Siddiq3/images/main/vikaslogo.jpg",  // Replace with actual image URL
       role: "Web Developer",
       company: "Vikas School",
-      date: "Feb 2023 - May 2023",
+      date: "May 2024 - Prasent",
       desc: "Developed a website for Vikas School to manage school data including admission details, fee details, payment details, staff details, and bus details.",
       skills: [
         "HTML",
@@ -174,6 +162,20 @@ export const Bio = {
         "Agile Methodologies",
       ],
     },
+
+    {
+        id: 3,
+        img: "https://raw.githubusercontent.com/Siddiq3/images/main/icon1.png",  // Replace with actual image URL
+        role: "Mobile App Developer",
+        company: "Mociber",
+        date: "June 2022 - Sept 2022",
+        desc: "Developed an app for solving home service problems like electrical work, plumbing, and motor work. The app connects customers with technicians to resolve issues efficiently.",
+        skills: [
+          "React Native",
+          "UI/UX Design",
+        
+        ],
+      },
   ];
   
   export const education = [
