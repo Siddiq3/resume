@@ -96,8 +96,8 @@ const Contact = () => {
         </InfoItem>
         <InfoItem>
           <FaGlobe />
-          <InfoLink href="https://siddiqkolimi.vercel.app.com" target="_blank">
-            codeofmohit.com
+          <InfoLink href="https://siddiqkolimi.vercel.app" target="_blank">
+            siddiqkolimi.com
           </InfoLink>
         </InfoItem>
       </ContactInfo>

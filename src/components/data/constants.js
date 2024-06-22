@@ -11,7 +11,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Siddiq3",
     resume:
-      "https://docs.google.com/document/d/16Bmo2I0dyNGbUUbvz_S9n4hMD3bh1xshqZAsO78o3uM/edit?usp=sharing",
+      "https://drive.google.com/file/d/1PXEsdm0r6fIRyUynaCLEV2Oeg1lFVGmn/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/siddiq-kolimi-a371a9192",
     twitter: "https://twitter.com/siddiqkolimi",
     insta: "https://www.instagram.com/siddiqkolimi/",
@@ -235,10 +235,4 @@ export const Bio = {
    
   ];
   
-  export const TimeLineData = [
-    { year: 2017, text: "Started my journey" },
-    { year: 2018, text: "Worked as a freelance developer" },
-    { year: 2019, text: "Founded JavaScript Mastery" },
-    { year: 2020, text: "Shared my projects with the world" },
-    { year: 2021, text: "Started my own platform" },
-  ];
+ 
